@@ -1,0 +1,14 @@
+問題1
+1. ホスティング
+2. ビルド❌ ⇒ デプロイ
+3. デプロイ❌ ⇒ ビルド
+4. yarn build
+5. GitHub
+6. dist
+7. HTML
+8. CSS
+9. JavaScript
+10. （空欄）❌ ⇒ ドメイン
+
+問題2
+https://focused-leavitt-e7f13f.netlify.app
